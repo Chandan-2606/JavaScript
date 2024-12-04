@@ -1,1 +1,1 @@
-console.log("Chandan")
+console.log("I'm Chandan and currently learning Javascript from chai and code.")
